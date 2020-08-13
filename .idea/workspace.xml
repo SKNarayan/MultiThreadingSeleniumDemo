@@ -1,0 +1,627 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="476626f9-4d2b-474b-a650-a847130faae8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/MultiThreadingSeleniumDemo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__cglib_cglib_3_2_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_aventstack_extentreports_4_0_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_beust_jcommander_1_72.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_9_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_9_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_9_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jdk8_2_9_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_fge_btf_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_fge_msg_simple_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_fge_uri_template_0_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_java_json_tools_jackson_coreutils_1_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_java_json_tools_json_schema_core_1_2_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_java_json_tools_json_schema_validator_2_2_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_virtuald_curvesapi_1_06.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_findbugs_jsr305_1_3_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_gson_gson_2_8_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_errorprone_error_prone_annotations_2_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_25_0_jre.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_j2objc_j2objc_annotations_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_googlecode_libphonenumber_libphonenumber_8_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_jcraft_jsch_0_1_55.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_squareup_okhttp3_okhttp_3_11_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_squareup_okio_okio_1_14_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_xml_bind_jaxb_osgi_2_3_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_beanutils_commons_beanutils_1_9_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_13.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_collections_commons_collections_3_2_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_digester_commons_digester_1_8_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_io_commons_io_2_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_validator_commons_validator_1_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_appium_java_client_7_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_rest_assured_json_path_4_3_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_rest_assured_json_schema_validator_4_3_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_rest_assured_rest_assured_4_3_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_rest_assured_rest_assured_common_4_3_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_rest_assured_xml_path_4_3_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_activation_jakarta_activation_api_1_2_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_xml_bind_jakarta_xml_bind_api_2_3_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_activation_activation_1_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_json_javax_json_api_1_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_mail_mailapi_1_4_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_javax_servlet_api_3_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__joda_time_joda_time_2_9_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_8_15.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_jcip_jcip_annotations_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_sf_jopt_simple_jopt_simple_5_0_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_ant_ant_1_10_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_ant_ant_launcher_1_10_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_collections4_4_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_compress_1_19.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_exec_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_math3_3_6_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_extras_beanshell_bsh_2_0b6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_5_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpmime_4_5_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_poi_poi_4_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_poi_poi_ooxml_4_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_poi_poi_ooxml_schemas_4_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_sling_org_apache_sling_javax_activation_0_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_xmlbeans_xmlbeans_3_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_aspectj_aspectjweaver_1_9_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_ccil_cowan_tagsoup_tagsoup_1_2_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_checkerframework_checker_compat_qual_2_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_groovy_groovy_3_0_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_groovy_groovy_json_3_0_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_groovy_groovy_xml_3_0_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_mojo_animal_sniffer_annotations_1_14.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_freemarker_freemarker_2_3_23.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_2_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_json_json_20190722.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mongodb_bson_3_3_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mongodb_mongodb_driver_3_3_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mongodb_mongodb_driver_core_3_3_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mozilla_rhino_1_7_7_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_ow2_asm_asm_6_2_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_jetty_repacked_9_4_12_v20180830.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_api_3_141_59.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_chrome_driver_3_141_59.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_edge_driver_3_141_59.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_firefox_driver_3_141_59.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_ie_driver_3_141_59.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_java_3_141_59.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_opera_driver_3_141_59.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_remote_driver_3_141_59.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_safari_driver_3_141_59.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_server_3_141_59.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_support_3_141_59.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_25.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_5_1_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_5_1_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_5_1_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_5_1_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_5_1_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jcl_5_1_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_testng_testng_6_14_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_yaml_snakeyaml_1_19.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MultiThreadingSelenium/MultiThreadingSelenium.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MultiThreadingSelenium/drivers/chromedriver" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MultiThreadingSelenium/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MultiThreadingSelenium/src/main/java/generic/CreateLink.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MultiThreadingSelenium/src/main/java/generic/CustomeAssert.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MultiThreadingSelenium/src/main/java/generic/DriverProvider.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MultiThreadingSelenium/src/main/java/generic/FailTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MultiThreadingSelenium/src/main/java/generic/Operation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MultiThreadingSelenium/src/main/java/generic/Reporting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MultiThreadingSelenium/src/main/java/generic/Scroll.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MultiThreadingSelenium/src/main/java/generic/SelectItem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MultiThreadingSelenium/src/main/java/generic/Synchronize.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MultiThreadingSelenium/src/main/java/pages/BasePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MultiThreadingSelenium/src/main/java/pages/ChooseRoomPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MultiThreadingSelenium/src/main/java/pages/HomePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MultiThreadingSelenium/src/main/java/pages/ResurvationDetailPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MultiThreadingSelenium/src/main/java/pages/SearchResultPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MultiThreadingSelenium/src/test/java/base/BaseTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MultiThreadingSelenium/src/test/java/multiThread/TestClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MultiThreadingSelenium/src/test/java/smoke/SmokeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MultiThreadingSelenium/testData/testdata.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MultiThreadingSelenium/testng.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/drivers/chromedriver" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1ewL4tjjIHmBt1EHBRHqaipTw8x" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="12" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/MultiThreadingSelenium" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.57194245" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/testData" />
+      <recent name="$PROJECT_DIR$/drivers" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="pages" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/MultiThreadingSelenium" />
+      <recent name="$PROJECT_DIR$/drivers" />
+      <recent name="$PROJECT_DIR$/MultiThreadingSelenium/drivers" />
+      <recent name="$PROJECT_DIR$/chrome" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.SmokeTest.SearchDelhi">
+    <configuration name="SmokeTest.SearchDelhi" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="MultiThreadingSelenium" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="smoke.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="smoke" />
+      <option name="MAIN_CLASS_NAME" value="smoke.SmokeTest" />
+      <option name="METHOD_NAME" value="SearchDelhi" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SmokeTest.SearchParis" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="MultiThreadingSelenium" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="smoke.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="smoke" />
+      <option name="MAIN_CLASS_NAME" value="smoke.SmokeTest" />
+      <option name="METHOD_NAME" value="SearchParis" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SmokeTest.SearchTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="MultiThreadingSelenium" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="smoke.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="smoke" />
+      <option name="MAIN_CLASS_NAME" value="smoke.SmokeTest" />
+      <option name="METHOD_NAME" value="SearchTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SmokeTest.SignIn" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="MultiThreadingSelenium" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="smoke.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="smoke" />
+      <option name="MAIN_CLASS_NAME" value="smoke.SmokeTest" />
+      <option name="METHOD_NAME" value="SignIn" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="/Users/shashi1.narayan/IdeaProjects/MultiThreadingSeleniumDemo/MultiThreadingSelenium/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="MultiThreadingSelenium" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/MultiThreadingSelenium/testng.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="/Users/shashi1.narayan/IdeaProjects/MultiThreadingSeleniumDemo/testng.xml (1)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="MultiThreadingSeleniumDemo" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="/Users/shashi1.narayan/IdeaProjects/MultiThreadingSeleniumDemo/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <useClassPathOnly />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng.xml" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="wholeProject" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="/Users/shashi1.narayan/IdeaProjects/MultiThreadingSeleniumDemo/testng.xml" type="TestNG" singleton="false" temporary="true" nameIsGenerated="true">
+      <useClassPathOnly />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng.xml" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="wholeProject" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="/Users/shashi1.narayan/IdeaProjects/MultiThreadingSeleniumDemo/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <useClassPathOnly />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng.xml" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="wholeProject" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="/Users/shashi1.narayan/IdeaProjects/MultiThreadingSeleniumDemo/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <useClassPathOnly />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng.xml" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="/Users/shashi1.narayan/IdeaProjects/MultiThreadingSeleniumDemo/testng.xml" type="TestNG" singleton="false" temporary="true" nameIsGenerated="true">
+      <useClassPathOnly />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng.xml" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="/Users/shashi1.narayan/IdeaProjects/MultiThreadingSeleniumDemo/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <useClassPathOnly />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng.xml" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="/Users/shashi1.narayan/IdeaProjects/MultiThreadingSeleniumDemo/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <useClassPathOnly />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng.xml" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="wholeProject" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="/Users/shashi1.narayan/IdeaProjects/MultiThreadingSeleniumDemo/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <useClassPathOnly />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng.xml" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="wholeProject" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="TestNG./Users/shashi1.narayan/IdeaProjects/MultiThreadingSeleniumDemo/testng.xml" />
+      <item itemvalue="TestNG./Users/shashi1.narayan/IdeaProjects/MultiThreadingSeleniumDemo/testng.xml (1)" />
+      <item itemvalue="TestNG./Users/shashi1.narayan/IdeaProjects/MultiThreadingSeleniumDemo/MultiThreadingSelenium/testng.xml" />
+      <item itemvalue="TestNG.SmokeTest.SearchTest" />
+      <item itemvalue="TestNG.SmokeTest.SignIn" />
+      <item itemvalue="TestNG.SmokeTest.SearchParis" />
+      <item itemvalue="TestNG.SmokeTest.SearchDelhi" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.SmokeTest.SearchDelhi" />
+        <item itemvalue="TestNG./Users/shashi1.narayan/IdeaProjects/MultiThreadingSeleniumDemo/MultiThreadingSelenium/testng.xml" />
+        <item itemvalue="TestNG.SmokeTest.SearchParis" />
+        <item itemvalue="TestNG.SmokeTest.SearchTest" />
+        <item itemvalue="TestNG.SmokeTest.SignIn" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="476626f9-4d2b-474b-a650-a847130faae8" name="Default Changelist" comment="" />
+      <created>1595227520693</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1595227520693</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="274" y="85" key="#Inspections" timestamp="1595415746646">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="274" y="85" key="#Inspections/0.0.1280.800@0.0.1280.800" timestamp="1595415746646" />
+    <state x="128" y="23" key="#Project_Structure" timestamp="1595248379763">
+      <screen x="0" y="23" width="1280" height="706" />
+    </state>
+    <state x="128" y="23" key="#Project_Structure/0.23.1280.706@0.23.1280.706" timestamp="1595248379763" />
+    <state x="104" y="11" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1595937895833">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="104" y="11" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.800@0.0.1280.800" timestamp="1595937895833" />
+    <state x="104" y="33" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1280.697@0.23.1280.697" timestamp="1595329879407" />
+    <state x="104" y="33" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1280.703@0.23.1280.703" timestamp="1595485823675" />
+    <state x="344" y="180" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1595414285594">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="344" y="180" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.800@0.0.1280.800" timestamp="1595414285594" />
+    <state x="344" y="182" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1280.706@0.23.1280.706" timestamp="1595248860715" />
+    <state x="453" y="113" key="#com.intellij.ide.util.MemberChooser" timestamp="1596522112219">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="453" y="113" key="#com.intellij.ide.util.MemberChooser/0.0.1280.800@0.0.1280.800" timestamp="1596522112219" />
+    <state width="1238" height="138" key="GridCell.Tab.0.bottom" timestamp="1597299690968">
+      <screen x="0" y="23" width="1280" height="706" />
+    </state>
+    <state width="1238" height="173" key="GridCell.Tab.0.bottom/0.0.1280.800@0.0.1280.800" timestamp="1597216468815" />
+    <state width="1238" height="665" key="GridCell.Tab.0.bottom/0.23.1280.697@0.23.1280.697" timestamp="1595401670623" />
+    <state width="1238" height="138" key="GridCell.Tab.0.bottom/0.23.1280.700@0.23.1280.700" timestamp="1597243228419" />
+    <state width="1238" height="139" key="GridCell.Tab.0.bottom/0.23.1280.703@0.23.1280.703" timestamp="1597212011240" />
+    <state width="1238" height="138" key="GridCell.Tab.0.bottom/0.23.1280.706@0.23.1280.706" timestamp="1597299690968" />
+    <state width="1238" height="553" key="GridCell.Tab.0.bottom/0.23.1280.708@0.23.1280.708" timestamp="1595485152172" />
+    <state width="1238" height="553" key="GridCell.Tab.0.bottom/0.23.1280.710@0.23.1280.710" timestamp="1595485271412" />
+    <state width="1238" height="550" key="GridCell.Tab.0.bottom/0.23.1280.713@0.23.1280.713" timestamp="1595325424295" />
+    <state width="1238" height="215" key="GridCell.Tab.0.bottom/0.23.1280.715@0.23.1280.715" timestamp="1595255078501" />
+    <state width="1238" height="138" key="GridCell.Tab.0.center" timestamp="1597299690967">
+      <screen x="0" y="23" width="1280" height="706" />
+    </state>
+    <state width="1238" height="173" key="GridCell.Tab.0.center/0.0.1280.800@0.0.1280.800" timestamp="1597216468812" />
+    <state width="1238" height="665" key="GridCell.Tab.0.center/0.23.1280.697@0.23.1280.697" timestamp="1595401670622" />
+    <state width="1238" height="138" key="GridCell.Tab.0.center/0.23.1280.700@0.23.1280.700" timestamp="1597243228419" />
+    <state width="1238" height="139" key="GridCell.Tab.0.center/0.23.1280.703@0.23.1280.703" timestamp="1597212011239" />
+    <state width="1238" height="138" key="GridCell.Tab.0.center/0.23.1280.706@0.23.1280.706" timestamp="1597299690967" />
+    <state width="1238" height="553" key="GridCell.Tab.0.center/0.23.1280.708@0.23.1280.708" timestamp="1595485152171" />
+    <state width="1238" height="553" key="GridCell.Tab.0.center/0.23.1280.710@0.23.1280.710" timestamp="1595485271411" />
+    <state width="1238" height="550" key="GridCell.Tab.0.center/0.23.1280.713@0.23.1280.713" timestamp="1595325424294" />
+    <state width="1238" height="215" key="GridCell.Tab.0.center/0.23.1280.715@0.23.1280.715" timestamp="1595255078500" />
+    <state width="1238" height="138" key="GridCell.Tab.0.left" timestamp="1597299690967">
+      <screen x="0" y="23" width="1280" height="706" />
+    </state>
+    <state width="1238" height="173" key="GridCell.Tab.0.left/0.0.1280.800@0.0.1280.800" timestamp="1597216468807" />
+    <state width="1238" height="665" key="GridCell.Tab.0.left/0.23.1280.697@0.23.1280.697" timestamp="1595401670621" />
+    <state width="1238" height="138" key="GridCell.Tab.0.left/0.23.1280.700@0.23.1280.700" timestamp="1597243228418" />
+    <state width="1238" height="139" key="GridCell.Tab.0.left/0.23.1280.703@0.23.1280.703" timestamp="1597212011239" />
+    <state width="1238" height="138" key="GridCell.Tab.0.left/0.23.1280.706@0.23.1280.706" timestamp="1597299690967" />
+    <state width="1238" height="553" key="GridCell.Tab.0.left/0.23.1280.708@0.23.1280.708" timestamp="1595485152171" />
+    <state width="1238" height="553" key="GridCell.Tab.0.left/0.23.1280.710@0.23.1280.710" timestamp="1595485271411" />
+    <state width="1238" height="550" key="GridCell.Tab.0.left/0.23.1280.713@0.23.1280.713" timestamp="1595325424293" />
+    <state width="1238" height="215" key="GridCell.Tab.0.left/0.23.1280.715@0.23.1280.715" timestamp="1595255078499" />
+    <state width="1238" height="138" key="GridCell.Tab.0.right" timestamp="1597299690967">
+      <screen x="0" y="23" width="1280" height="706" />
+    </state>
+    <state width="1238" height="173" key="GridCell.Tab.0.right/0.0.1280.800@0.0.1280.800" timestamp="1597216468814" />
+    <state width="1238" height="665" key="GridCell.Tab.0.right/0.23.1280.697@0.23.1280.697" timestamp="1595401670622" />
+    <state width="1238" height="138" key="GridCell.Tab.0.right/0.23.1280.700@0.23.1280.700" timestamp="1597243228419" />
+    <state width="1238" height="139" key="GridCell.Tab.0.right/0.23.1280.703@0.23.1280.703" timestamp="1597212011240" />
+    <state width="1238" height="138" key="GridCell.Tab.0.right/0.23.1280.706@0.23.1280.706" timestamp="1597299690967" />
+    <state width="1238" height="553" key="GridCell.Tab.0.right/0.23.1280.708@0.23.1280.708" timestamp="1595485152172" />
+    <state width="1238" height="553" key="GridCell.Tab.0.right/0.23.1280.710@0.23.1280.710" timestamp="1595485271412" />
+    <state width="1238" height="550" key="GridCell.Tab.0.right/0.23.1280.713@0.23.1280.713" timestamp="1595325424295" />
+    <state width="1238" height="215" key="GridCell.Tab.0.right/0.23.1280.715@0.23.1280.715" timestamp="1595255078500" />
+    <state width="1238" height="210" key="GridCell.Tab.1.bottom" timestamp="1597141492718">
+      <screen x="0" y="23" width="1280" height="700" />
+    </state>
+    <state width="1238" height="263" key="GridCell.Tab.1.bottom/0.0.1280.800@0.0.1280.800" timestamp="1596636418797" />
+    <state width="1238" height="210" key="GridCell.Tab.1.bottom/0.23.1280.700@0.23.1280.700" timestamp="1597141492718" />
+    <state width="1238" height="215" key="GridCell.Tab.1.bottom/0.23.1280.708@0.23.1280.708" timestamp="1595326049415" />
+    <state width="1238" height="215" key="GridCell.Tab.1.bottom/0.23.1280.713@0.23.1280.713" timestamp="1595255050588" />
+    <state width="1238" height="215" key="GridCell.Tab.1.bottom/0.23.1280.715@0.23.1280.715" timestamp="1595255078504" />
+    <state width="1238" height="210" key="GridCell.Tab.1.center" timestamp="1597141492717">
+      <screen x="0" y="23" width="1280" height="700" />
+    </state>
+    <state width="1238" height="263" key="GridCell.Tab.1.center/0.0.1280.800@0.0.1280.800" timestamp="1596636418795" />
+    <state width="1238" height="210" key="GridCell.Tab.1.center/0.23.1280.700@0.23.1280.700" timestamp="1597141492717" />
+    <state width="1238" height="215" key="GridCell.Tab.1.center/0.23.1280.708@0.23.1280.708" timestamp="1595326049414" />
+    <state width="1238" height="215" key="GridCell.Tab.1.center/0.23.1280.713@0.23.1280.713" timestamp="1595255050587" />
+    <state width="1238" height="215" key="GridCell.Tab.1.center/0.23.1280.715@0.23.1280.715" timestamp="1595255078502" />
+    <state width="1238" height="210" key="GridCell.Tab.1.left" timestamp="1597141492716">
+      <screen x="0" y="23" width="1280" height="700" />
+    </state>
+    <state width="1238" height="263" key="GridCell.Tab.1.left/0.0.1280.800@0.0.1280.800" timestamp="1596636418794" />
+    <state width="1238" height="210" key="GridCell.Tab.1.left/0.23.1280.700@0.23.1280.700" timestamp="1597141492716" />
+    <state width="1238" height="215" key="GridCell.Tab.1.left/0.23.1280.708@0.23.1280.708" timestamp="1595326049414" />
+    <state width="1238" height="215" key="GridCell.Tab.1.left/0.23.1280.713@0.23.1280.713" timestamp="1595255050586" />
+    <state width="1238" height="215" key="GridCell.Tab.1.left/0.23.1280.715@0.23.1280.715" timestamp="1595255078502" />
+    <state width="1238" height="210" key="GridCell.Tab.1.right" timestamp="1597141492718">
+      <screen x="0" y="23" width="1280" height="700" />
+    </state>
+    <state width="1238" height="263" key="GridCell.Tab.1.right/0.0.1280.800@0.0.1280.800" timestamp="1596636418796" />
+    <state width="1238" height="210" key="GridCell.Tab.1.right/0.23.1280.700@0.23.1280.700" timestamp="1597141492718" />
+    <state width="1238" height="215" key="GridCell.Tab.1.right/0.23.1280.708@0.23.1280.708" timestamp="1595326049415" />
+    <state width="1238" height="215" key="GridCell.Tab.1.right/0.23.1280.713@0.23.1280.713" timestamp="1595255050588" />
+    <state width="1238" height="215" key="GridCell.Tab.1.right/0.23.1280.715@0.23.1280.715" timestamp="1595255078503" />
+    <state x="228" y="123" key="IDE.errors.dialog" timestamp="1595230968427">
+      <screen x="0" y="23" width="1280" height="706" />
+    </state>
+    <state x="228" y="123" key="IDE.errors.dialog/0.23.1280.706@0.23.1280.706" timestamp="1595230968427" />
+    <state x="149" y="23" width="982" height="700" key="SettingsEditor" timestamp="1596010548515">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="149" y="23" width="982" height="700" key="SettingsEditor/0.0.1280.800@0.0.1280.800" timestamp="1596010548515" />
+    <state x="149" y="23" key="SettingsEditor/0.23.1280.697@0.23.1280.697" timestamp="1595328704145" />
+    <state x="149" y="23" width="982" height="703" key="SettingsEditor/0.23.1280.703@0.23.1280.703" timestamp="1595245302147" />
+    <state x="149" y="23" width="982" height="706" key="SettingsEditor/0.23.1280.706@0.23.1280.706" timestamp="1595253214884" />
+    <state x="352" y="283" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1595940797110">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="352" y="283" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1280.800@0.0.1280.800" timestamp="1595940797110" />
+    <state x="34" y="36" key="new project wizard" timestamp="1595330185132">
+      <screen x="0" y="23" width="1280" height="697" />
+    </state>
+    <state x="34" y="36" key="new project wizard/0.23.1280.697@0.23.1280.697" timestamp="1595330185132" />
+    <state x="34" y="36" key="new project wizard/0.23.1280.706@0.23.1280.706" timestamp="1595227944001" />
+    <state x="305" y="124" width="670" height="676" key="search.everywhere.popup" timestamp="1596633796422">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="305" y="124" width="670" height="676" key="search.everywhere.popup/0.0.1280.800@0.0.1280.800" timestamp="1596633796422" />
+  </component>
+</project>

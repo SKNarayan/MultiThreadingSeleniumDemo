@@ -1,0 +1,15 @@
+{
+  "Location": {
+    "delhi": "Delhi, India",
+    "london": "London, UK",
+    "paris": "Paris, France"
+  },
+  "UserName": {
+    "validUserName": "sknarayan20@gmail.com",
+    "invalidUserName": "sknarayan@gmail.com"
+  },
+  "Password": {
+    "validPassword": "Elephant@7",
+    "invalidPassword": "Elephant"
+  }
+}
